@@ -6,6 +6,8 @@ import { SITE } from "@/lib/constants";
 import { THEME_SCRIPT } from "@/lib/theme-script";
 import "./globals.css";
 
+const GA_ID = "G-N73XQDN6M9";
+
 const inter = Inter({
   subsets: ["latin"],
   variable: "--font-inter",
@@ -90,8 +92,25 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
           {THEME_SCRIPT}
         </Script>
         {children}
-        {/* Only inject on Vercel — avoids a 404 for the insights script elsewhere. */}
+        {/* Vercel Analytics — only on Vercel runtime (avoids 404 locally). */}
         {process.env.VERCEL === "1" && <Analytics />}
+        {/* Google Analytics 4 — prod only, lazy after-interactive so it never
+            blocks LCP. Inline config script needs a stable `id` (React 19) and
+            must run after the loader, so we use the same strategy for both. */}
+        {process.env.NODE_ENV === "production" && (
+          <>
+            <Script
+              src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`}
+              strategy="afterInteractive"
+            />
+            <Script id="ga-init" strategy="afterInteractive">
+              {`window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', '${GA_ID}', { anonymize_ip: true });`}
+            </Script>
+          </>
+        )}
       </body>
     </html>
   );
