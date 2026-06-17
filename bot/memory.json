@@ -255,12 +255,6 @@
     "Create a companion piece on \"guaranteed issue life insurance for seniors 60+\" to capture the subset of readers who can't qualify for term underwriting, then internally link both articles to a hub comparing all senior life insurance types.",
     "Create a companion piece on \"How to open a Demat account in India\" (awareness-stage content) to capture users one step earlier in the funnel and internally link both articles to build topical authority around beginner investing."
   ],
-  "pendingPings": [
-    "http://localhost:3000/blog/how-much-should-you-save-monthly-for-1-crore-in-10-years",
-    "http://localhost:3000/blog/fd-interest-tax-for-senior-citizens-in-india-fy-2025-26",
-    "http://localhost:3000/blog/section-80ttb-tax-exemption-for-senior-citizens-fy-2025-26",
-    "http://localhost:3000/blog/term-insurance-cover-for-senior-citizens-above-60-how-much",
-    "http://localhost:3000/blog/best-stocks-for-beginners-in-india-5-blue-chip-picks-to-start-with"
-  ],
+  "pendingPings": [],
   "indexNowKey": "df33490e594b8a40b9db17129b00a70f"
 }
