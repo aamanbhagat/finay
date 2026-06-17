@@ -53,10 +53,9 @@ export const metadata: Metadata = {
     creator: SITE.twitter,
     images: ["/api/og"],
   },
-  icons: {
-    icon: [{ url: "/icon.svg", type: "image/svg+xml" }],
-    shortcut: "/favicon.ico",
-  },
+  // Favicons & touch icons are auto-emitted from file-based conventions:
+  //   app/favicon.ico · app/icon.svg · app/icon.png · app/apple-icon.png
+  // Next.js builds the correct <link rel="icon"> + <link rel="apple-touch-icon">.
   robots: {
     index: true,
     follow: true,
