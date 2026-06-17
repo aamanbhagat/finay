@@ -1,0 +1,211 @@
+{
+  "version": 1,
+  "siteBirth": "2026-06-17",
+  "lastRunAt": "2026-06-17T11:14:56.786Z",
+  "runs": [
+    {
+      "ts": "2026-06-17T06:56:58.713Z",
+      "phase": "seed",
+      "category": "personal-finance",
+      "keywordTier": "long-tail",
+      "primaryKeyword": "how much to save monthly for 1 crore in 10 years",
+      "title": "How much should you save monthly for ₹1 crore in 10 years",
+      "slug": "how-much-should-you-save-monthly-for-1-crore-in-10-years",
+      "wordCount": 2138
+    },
+    {
+      "ts": "2026-06-17T11:05:43.013Z",
+      "phase": "seed",
+      "category": "banking",
+      "keywordTier": "long-tail",
+      "primaryKeyword": "FD interest tax for senior citizens",
+      "title": "FD interest tax for senior citizens in India FY 2025-26",
+      "slug": "fd-interest-tax-for-senior-citizens-in-india-fy-2025-26",
+      "wordCount": 2407
+    },
+    {
+      "ts": "2026-06-17T11:06:31.048Z",
+      "phase": "seed",
+      "category": "tax",
+      "keywordTier": "long-tail",
+      "primaryKeyword": "Section 80TTB tax exemption for senior citizens",
+      "title": "Section 80TTB tax exemption for senior citizens FY 2025-26",
+      "slug": "section-80ttb-tax-exemption-for-senior-citizens-fy-2025-26",
+      "wordCount": 2163
+    },
+    {
+      "ts": "2026-06-17T11:14:56.786Z",
+      "phase": "seed",
+      "category": "insurance",
+      "keywordTier": "long-tail",
+      "primaryKeyword": "term insurance for senior citizens above 60",
+      "title": "Term insurance cover for senior citizens above 60: how much?",
+      "slug": "term-insurance-cover-for-senior-citizens-above-60-how-much",
+      "wordCount": 2178
+    }
+  ],
+  "usedKeywords": [
+    "how much to save monthly for 1 crore in 10 years",
+    "FD interest tax for senior citizens",
+    "Section 80TTB tax exemption for senior citizens",
+    "term insurance for senior citizens above 60"
+  ],
+  "usedTitles": [
+    "How much should you save monthly for ₹1 crore in 10 years",
+    "FD interest tax for senior citizens in India FY 2025-26",
+    "Section 80TTB tax exemption for senior citizens FY 2025-26",
+    "Term insurance cover for senior citizens above 60: how much?"
+  ],
+  "usedSlugs": [
+    "how-much-should-you-save-monthly-for-1-crore-in-10-years",
+    "fd-interest-tax-for-senior-citizens-in-india-fy-2025-26",
+    "section-80ttb-tax-exemption-for-senior-citizens-fy-2025-26",
+    "term-insurance-cover-for-senior-citizens-above-60-how-much"
+  ],
+  "clusters": {
+    "Savings Goals": {
+      "members": [
+        "how-much-should-you-save-monthly-for-1-crore-in-10-years"
+      ],
+      "primaryKeywords": [
+        "how much to save monthly for 1 crore in 10 years"
+      ]
+    },
+    "Wealth Building": {
+      "members": [
+        "how-much-should-you-save-monthly-for-1-crore-in-10-years"
+      ],
+      "primaryKeywords": [
+        "how much to save monthly for 1 crore in 10 years"
+      ]
+    },
+    "SIP Strategy": {
+      "members": [
+        "how-much-should-you-save-monthly-for-1-crore-in-10-years"
+      ],
+      "primaryKeywords": [
+        "how much to save monthly for 1 crore in 10 years"
+      ]
+    },
+    "Long-term Planning": {
+      "members": [
+        "how-much-should-you-save-monthly-for-1-crore-in-10-years"
+      ],
+      "primaryKeywords": [
+        "how much to save monthly for 1 crore in 10 years"
+      ]
+    },
+    "1 Crore Goal": {
+      "members": [
+        "how-much-should-you-save-monthly-for-1-crore-in-10-years"
+      ],
+      "primaryKeywords": [
+        "how much to save monthly for 1 crore in 10 years"
+      ]
+    },
+    "FD": {
+      "members": [
+        "fd-interest-tax-for-senior-citizens-in-india-fy-2025-26"
+      ],
+      "primaryKeywords": [
+        "FD interest tax for senior citizens"
+      ]
+    },
+    "Senior Citizens": {
+      "members": [
+        "fd-interest-tax-for-senior-citizens-in-india-fy-2025-26",
+        "section-80ttb-tax-exemption-for-senior-citizens-fy-2025-26",
+        "term-insurance-cover-for-senior-citizens-above-60-how-much"
+      ],
+      "primaryKeywords": [
+        "FD interest tax for senior citizens",
+        "Section 80TTB tax exemption for senior citizens",
+        "term insurance for senior citizens above 60"
+      ]
+    },
+    "Tax Planning": {
+      "members": [
+        "fd-interest-tax-for-senior-citizens-in-india-fy-2025-26",
+        "section-80ttb-tax-exemption-for-senior-citizens-fy-2025-26"
+      ],
+      "primaryKeywords": [
+        "FD interest tax for senior citizens",
+        "Section 80TTB tax exemption for senior citizens"
+      ]
+    },
+    "Banking": {
+      "members": [
+        "fd-interest-tax-for-senior-citizens-in-india-fy-2025-26"
+      ],
+      "primaryKeywords": [
+        "FD interest tax for senior citizens"
+      ]
+    },
+    "FD Interest": {
+      "members": [
+        "section-80ttb-tax-exemption-for-senior-citizens-fy-2025-26"
+      ],
+      "primaryKeywords": [
+        "Section 80TTB tax exemption for senior citizens"
+      ]
+    },
+    "Tax Deductions": {
+      "members": [
+        "section-80ttb-tax-exemption-for-senior-citizens-fy-2025-26"
+      ],
+      "primaryKeywords": [
+        "Section 80TTB tax exemption for senior citizens"
+      ]
+    },
+    "Section 80TTB": {
+      "members": [
+        "section-80ttb-tax-exemption-for-senior-citizens-fy-2025-26"
+      ],
+      "primaryKeywords": [
+        "Section 80TTB tax exemption for senior citizens"
+      ]
+    },
+    "Term Insurance": {
+      "members": [
+        "term-insurance-cover-for-senior-citizens-above-60-how-much"
+      ],
+      "primaryKeywords": [
+        "term insurance for senior citizens above 60"
+      ]
+    },
+    "Insurance Planning": {
+      "members": [
+        "term-insurance-cover-for-senior-citizens-above-60-how-much"
+      ],
+      "primaryKeywords": [
+        "term insurance for senior citizens above 60"
+      ]
+    },
+    "Cover Amount": {
+      "members": [
+        "term-insurance-cover-for-senior-citizens-above-60-how-much"
+      ],
+      "primaryKeywords": [
+        "term insurance for senior citizens above 60"
+      ]
+    }
+  },
+  "phaseHistory": [
+    {
+      "ts": "2026-06-17T06:56:58.713Z",
+      "phase": "seed"
+    }
+  ],
+  "notes": [
+    "Create a companion calculator post targeting \"₹1 crore in 10 years calculator\" (same keyword intent, higher conversion) that embeds the methodology from your seed article while offering interactive tools, then cross-link both to build topical authority in the \"wealth accumulation timeline\" cluster.",
+    "Create a companion piece on \"Section 80TTB tax exemption for senior citizens FD interest\" to capture the high-intent subset actively filing ITRs and link bidirectionally to unlock the tax-planning cluster.",
+    "Create a companion piece on \"guaranteed issue life insurance for seniors 60+\" to capture the subset of readers who can't qualify for term underwriting, then internally link both articles to a hub comparing all senior life insurance types."
+  ],
+  "pendingPings": [
+    "http://localhost:3000/blog/how-much-should-you-save-monthly-for-1-crore-in-10-years",
+    "http://localhost:3000/blog/fd-interest-tax-for-senior-citizens-in-india-fy-2025-26",
+    "http://localhost:3000/blog/section-80ttb-tax-exemption-for-senior-citizens-fy-2025-26",
+    "http://localhost:3000/blog/term-insurance-cover-for-senior-citizens-above-60-how-much"
+  ],
+  "indexNowKey": "df33490e594b8a40b9db17129b00a70f"
+}

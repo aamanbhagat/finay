@@ -1,0 +1,98 @@
+import type { Metadata, Viewport } from "next";
+import { Inter, Fraunces } from "next/font/google";
+import Script from "next/script";
+import { Analytics } from "@vercel/analytics/next";
+import { SITE } from "@/lib/constants";
+import { THEME_SCRIPT } from "@/lib/theme-script";
+import "./globals.css";
+
+const inter = Inter({
+  subsets: ["latin"],
+  variable: "--font-inter",
+  display: "swap",
+});
+
+const fraunces = Fraunces({
+  subsets: ["latin"],
+  variable: "--font-fraunces",
+  display: "swap",
+  axes: ["opsz", "SOFT"],
+});
+
+export const metadata: Metadata = {
+  metadataBase: new URL(SITE.url),
+  title: {
+    default: `${SITE.name} — ${SITE.tagline}`,
+    template: `%s · ${SITE.name}`,
+  },
+  description: SITE.description,
+  applicationName: SITE.name,
+  authors: [{ name: SITE.name }],
+  creator: SITE.name,
+  publisher: SITE.name,
+  alternates: {
+    canonical: "/",
+    types: {
+      "application/rss+xml": `${SITE.url}/feed.xml`,
+    },
+  },
+  openGraph: {
+    type: "website",
+    locale: SITE.locale,
+    url: SITE.url,
+    siteName: SITE.name,
+    title: `${SITE.name} — ${SITE.tagline}`,
+    description: SITE.description,
+    images: [{ url: "/api/og", width: 1200, height: 630, alt: SITE.name }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    site: SITE.twitter,
+    creator: SITE.twitter,
+    images: ["/api/og"],
+  },
+  icons: {
+    icon: [{ url: "/icon.svg", type: "image/svg+xml" }],
+    shortcut: "/favicon.ico",
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-image-preview": "large",
+      "max-snippet": -1,
+      "max-video-preview": -1,
+    },
+  },
+};
+
+export const viewport: Viewport = {
+  themeColor: [
+    { media: "(prefers-color-scheme: light)", color: "#faf8f3" },
+    { media: "(prefers-color-scheme: dark)", color: "#060f1f" },
+  ],
+  colorScheme: "light dark",
+};
+
+export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
+  return (
+    <html
+      lang="en"
+      suppressHydrationWarning
+      className={`${inter.variable} ${fraunces.variable} h-full`}
+    >
+      <body className="flex min-h-full flex-col bg-background text-foreground antialiased">
+        {/* Inline theme init — runs before paint, no FOUC. next/script avoids the
+            React 19 raw-<script> warning and is hoisted by Next's script manager. */}
+        <Script id="theme-init" strategy="beforeInteractive">
+          {THEME_SCRIPT}
+        </Script>
+        {children}
+        {/* Only inject on Vercel — avoids a 404 for the insights script elsewhere. */}
+        {process.env.VERCEL === "1" && <Analytics />}
+      </body>
+    </html>
+  );
+}
