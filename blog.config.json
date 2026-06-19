@@ -1,0 +1,21 @@
+{
+  "siteName": "Compound",
+  "siteUrl": "https://getcompound.me",
+  "niche": "personal finance and investing in India — stocks, mutual funds, SIPs, tax, insurance and compounding",
+  "audience": "Indian retail investors and savers planning their money",
+  "topicGuidance": "Prefer practical, high-intent topics: SIP and lumpsum strategy, tax-saving, FD/RD vs equity, insurance adequacy, compounding maths, retirement planning. Use accurate FY 2025-26 India context. Avoid hallucinated figures.",
+  "coverColors": ["#0f172a", "#34d399"],
+  "categories": [
+    { "slug": "stocks", "name": "Stocks" },
+    { "slug": "personal-finance", "name": "Personal Finance" },
+    { "slug": "tax", "name": "Tax" },
+    { "slug": "sip", "name": "SIP" },
+    { "slug": "insurance", "name": "Insurance" },
+    { "slug": "retirement", "name": "Retirement" }
+  ],
+  "authors": [
+    { "slug": "aarav-mehta", "name": "Aarav Mehta" },
+    { "slug": "priya-nair", "name": "Priya Nair" },
+    { "slug": "rohan-das", "name": "Rohan Das" }
+  ]
+}
