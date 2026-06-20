@@ -7,11 +7,11 @@
   "coverColors": ["#0f172a", "#34d399"],
   "categories": [
     { "slug": "stocks", "name": "Stocks" },
+    { "slug": "crypto", "name": "Crypto" },
     { "slug": "personal-finance", "name": "Personal Finance" },
+    { "slug": "banking", "name": "Banking" },
     { "slug": "tax", "name": "Tax" },
-    { "slug": "sip", "name": "SIP" },
-    { "slug": "insurance", "name": "Insurance" },
-    { "slug": "retirement", "name": "Retirement" }
+    { "slug": "insurance", "name": "Insurance" }
   ],
   "authors": [
     { "slug": "aarav-mehta", "name": "Aarav Mehta" },
