@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="368" viewBox="0 0 920 368" role="img">
+  <rect width="920" height="368" fill="#ffffff"/>
+  <text x="40" y="44" font-family="system-ui,Segoe UI,Arial" font-size="24" font-weight="700" fill="#0f172a">Ideal stock count by portfolio size</text>
+  <line x1="40" y1="304" x2="880" y2="304" stroke="#e2e8f0" stroke-width="2"/>
+    <rect x="40.0" y="231.0" width="190.5" height="73" rx="6" fill="#34d399"/>
+    <text x="135.3" y="221.0" text-anchor="middle" font-family="system-ui,Segoe UI,Arial" font-size="20" font-weight="700" fill="#0f172a">5sto</text>
+    <text x="135.3" y="332.0" text-anchor="middle" font-family="system-ui,Segoe UI,Arial" font-size="17" fill="#475569">Under ₹1 lakh</text>
+    <rect x="256.5" y="187.0" width="190.5" height="117" rx="6" fill="#34d399"/>
+    <text x="351.8" y="177.0" text-anchor="middle" font-family="system-ui,Segoe UI,Arial" font-size="20" font-weight="700" fill="#0f172a">8sto</text>
+    <text x="351.8" y="332.0" text-anchor="middle" font-family="system-ui,Segoe UI,Arial" font-size="17" fill="#475569">₹1-5 lakh</text>
+    <rect x="473.0" y="128.0" width="190.5" height="176" rx="6" fill="#34d399"/>
+    <text x="568.3" y="118.0" text-anchor="middle" font-family="system-ui,Segoe UI,Arial" font-size="20" font-weight="700" fill="#0f172a">12sto</text>
+    <text x="568.3" y="332.0" text-anchor="middle" font-family="system-ui,Segoe UI,Arial" font-size="17" fill="#475569">₹5-10 lakh</text>
+    <rect x="689.5" y="84.0" width="190.5" height="220" rx="6" fill="#34d399"/>
+    <text x="784.8" y="74.0" text-anchor="middle" font-family="system-ui,Segoe UI,Arial" font-size="20" font-weight="700" fill="#0f172a">15sto</text>
+    <text x="784.8" y="332.0" text-anchor="middle" font-family="system-ui,Segoe UI,Arial" font-size="17" fill="#475569">Above ₹10 lakh</text>
+</svg>

@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "siteBirth": "2026-06-17",
+  "lastRunAt": "2026-06-20T13:46:32.838Z",
+  "runs": [
+    {
+      "ts": "2026-06-20T13:37:27.540Z",
+      "phase": "seed",
+      "category": "sip",
+      "keywordTier": "mid-tail",
+      "primaryKeyword": "SIP vs RD",
+      "title": "SIP vs RD: which is better for monthly savings in India?",
+      "slug": "sip-vs-rd-which-is-better-for-monthly-savings-in-india",
+      "wordCount": 2211
+    },
+    {
+      "ts": "2026-06-20T13:41:41.221Z",
+      "phase": "seed",
+      "category": "retirement",
+      "keywordTier": "mid-tail",
+      "primaryKeyword": "NPS withdrawal rules",
+      "title": "NPS withdrawal rules in India: lump sum, annuity and partial exit",
+      "slug": "nps-withdrawal-rules-in-india-lump-sum-annuity-and-partial-exit",
+      "wordCount": 756
+    },
+    {
+      "ts": "2026-06-20T13:46:32.838Z",
+      "phase": "seed",
+      "category": "stocks",
+      "keywordTier": "long-tail",
+      "primaryKeyword": "how many stocks should a beginner hold in India",
+      "title": "How many stocks should a beginner hold in India? Ideal count",
+      "slug": "how-many-stocks-should-a-beginner-hold-in-india-ideal-count",
+      "wordCount": 2473
+    }
+  ],
+  "usedKeywords": [
+    "SIP vs RD",
+    "NPS withdrawal rules",
+    "how many stocks should a beginner hold in India"
+  ],
+  "usedTitles": [
+    "SIP vs RD: which is better for monthly savings in India?",
+    "NPS withdrawal rules in India: lump sum, annuity and partial exit",
+    "How many stocks should a beginner hold in India? Ideal count"
+  ],
+  "usedSlugs": [
+    "sip-vs-rd-which-is-better-for-monthly-savings-in-india",
+    "nps-withdrawal-rules-in-india-lump-sum-annuity-and-partial-exit",
+    "how-many-stocks-should-a-beginner-hold-in-india-ideal-count"
+  ],
+  "clusters": {
+    "SIP": {
+      "members": [
+        "sip-vs-rd-which-is-better-for-monthly-savings-in-india"
+      ],
+      "primaryKeywords": [
+        "SIP vs RD"
+      ]
+    },
+    "Personal Finance": {
+      "members": [
+        "sip-vs-rd-which-is-better-for-monthly-savings-in-india"
+      ],
+      "primaryKeywords": [
+        "SIP vs RD"
+      ]
+    },
+    "Tax Planning": {
+      "members": [
+        "sip-vs-rd-which-is-better-for-monthly-savings-in-india",
+        "nps-withdrawal-rules-in-india-lump-sum-annuity-and-partial-exit"
+      ],
+      "primaryKeywords": [
+        "SIP vs RD",
+        "NPS withdrawal rules"
+      ]
+    },
+    "Compounding": {
+      "members": [
+        "sip-vs-rd-which-is-better-for-monthly-savings-in-india",
+        "how-many-stocks-should-a-beginner-hold-in-india-ideal-count"
+      ],
+      "primaryKeywords": [
+        "SIP vs RD",
+        "how many stocks should a beginner hold in India"
+      ]
+    },
+    "Retirement Planning": {
+      "members": [
+        "nps-withdrawal-rules-in-india-lump-sum-annuity-and-partial-exit"
+      ],
+      "primaryKeywords": [
+        "NPS withdrawal rules"
+      ]
+    },
+    "NPS": {
+      "members": [
+        "nps-withdrawal-rules-in-india-lump-sum-annuity-and-partial-exit"
+      ],
+      "primaryKeywords": [
+        "NPS withdrawal rules"
+      ]
+    },
+    "Senior Citizens": {
+      "members": [
+        "nps-withdrawal-rules-in-india-lump-sum-annuity-and-partial-exit"
+      ],
+      "primaryKeywords": [
+        "NPS withdrawal rules"
+      ]
+    },
+    "Stocks": {
+      "members": [
+        "how-many-stocks-should-a-beginner-hold-in-india-ideal-count"
+      ],
+      "primaryKeywords": [
+        "how many stocks should a beginner hold in India"
+      ]
+    },
+    "Portfolio Diversification": {
+      "members": [
+        "how-many-stocks-should-a-beginner-hold-in-india-ideal-count"
+      ],
+      "primaryKeywords": [
+        "how many stocks should a beginner hold in India"
+      ]
+    },
+    "Beginner Investing": {
+      "members": [
+        "how-many-stocks-should-a-beginner-hold-in-india-ideal-count"
+      ],
+      "primaryKeywords": [
+        "how many stocks should a beginner hold in India"
+      ]
+    }
+  },
+  "phaseHistory": [
+    {
+      "ts": "2026-06-20T13:37:27.540Z",
+      "phase": "seed"
+    }
+  ],
+  "notes": [
+    "Extend the retirement cluster by publishing \"Annuity plans in India explained\" to capture the search demand surrounding the newly published NPS withdrawal rules, and establish a reciprocal internal-linking bridge between the two posts to funnel authority."
+  ]
+}

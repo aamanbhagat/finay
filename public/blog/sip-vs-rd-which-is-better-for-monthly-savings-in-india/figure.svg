@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="368" viewBox="0 0 920 368" role="img">
+  <rect width="920" height="368" fill="#ffffff"/>
+  <text x="40" y="44" font-family="system-ui,Segoe UI,Arial" font-size="24" font-weight="700" fill="#0f172a">₹10k monthly for 10 years (₹ lakh)</text>
+  <line x1="40" y1="304" x2="880" y2="304" stroke="#e2e8f0" stroke-width="2"/>
+    <rect x="40.0" y="189.0" width="262.7" height="115" rx="6" fill="#34d399"/>
+    <text x="171.3" y="179.0" text-anchor="middle" font-family="system-ui,Segoe UI,Arial" font-size="20" font-weight="700" fill="#0f172a">12₹</text>
+    <text x="171.3" y="332.0" text-anchor="middle" font-family="system-ui,Segoe UI,Arial" font-size="17" fill="#475569">Total invested</text>
+    <rect x="328.7" y="146.0" width="262.7" height="158" rx="6" fill="#34d399"/>
+    <text x="460.0" y="136.0" text-anchor="middle" font-family="system-ui,Segoe UI,Arial" font-size="20" font-weight="700" fill="#0f172a">16.5₹</text>
+    <text x="460.0" y="332.0" text-anchor="middle" font-family="system-ui,Segoe UI,Arial" font-size="17" fill="#475569">RD at 6.5%</text>
+    <rect x="617.3" y="84.0" width="262.7" height="220" rx="6" fill="#34d399"/>
+    <text x="748.7" y="74.0" text-anchor="middle" font-family="system-ui,Segoe UI,Arial" font-size="20" font-weight="700" fill="#0f172a">23₹</text>
+    <text x="748.7" y="332.0" text-anchor="middle" font-family="system-ui,Segoe UI,Arial" font-size="17" fill="#475569">SIP at 12%</text>
+</svg>
