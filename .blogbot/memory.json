@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteBirth": "2026-06-17",
-  "lastRunAt": "2026-06-20T13:46:32.838Z",
+  "lastRunAt": "2026-06-21T05:26:06.787Z",
   "runs": [
     {
       "ts": "2026-06-20T13:37:27.540Z",
@@ -32,22 +32,35 @@
       "title": "How many stocks should a beginner hold in India? Ideal count",
       "slug": "how-many-stocks-should-a-beginner-hold-in-india-ideal-count",
       "wordCount": 2473
+    },
+    {
+      "ts": "2026-06-21T05:26:06.787Z",
+      "phase": "seed",
+      "category": "tax",
+      "keywordTier": "mid-tail",
+      "primaryKeyword": "Sukanya Samriddhi tax benefits",
+      "title": "Sukanya Samriddhi tax benefits and interest rate 2026",
+      "slug": "sukanya-samriddhi-tax-benefits-and-interest-rate-2026",
+      "wordCount": 2282
     }
   ],
   "usedKeywords": [
     "SIP vs RD",
     "NPS withdrawal rules",
-    "how many stocks should a beginner hold in India"
+    "how many stocks should a beginner hold in India",
+    "Sukanya Samriddhi tax benefits"
   ],
   "usedTitles": [
     "SIP vs RD: which is better for monthly savings in India?",
     "NPS withdrawal rules in India: lump sum, annuity and partial exit",
-    "How many stocks should a beginner hold in India? Ideal count"
+    "How many stocks should a beginner hold in India? Ideal count",
+    "Sukanya Samriddhi tax benefits and interest rate 2026"
   ],
   "usedSlugs": [
     "sip-vs-rd-which-is-better-for-monthly-savings-in-india",
     "nps-withdrawal-rules-in-india-lump-sum-annuity-and-partial-exit",
-    "how-many-stocks-should-a-beginner-hold-in-india-ideal-count"
+    "how-many-stocks-should-a-beginner-hold-in-india-ideal-count",
+    "sukanya-samriddhi-tax-benefits-and-interest-rate-2026"
   ],
   "clusters": {
     "SIP": {
@@ -60,30 +73,36 @@
     },
     "Personal Finance": {
       "members": [
-        "sip-vs-rd-which-is-better-for-monthly-savings-in-india"
+        "sip-vs-rd-which-is-better-for-monthly-savings-in-india",
+        "sukanya-samriddhi-tax-benefits-and-interest-rate-2026"
       ],
       "primaryKeywords": [
-        "SIP vs RD"
+        "SIP vs RD",
+        "Sukanya Samriddhi tax benefits"
       ]
     },
     "Tax Planning": {
       "members": [
         "sip-vs-rd-which-is-better-for-monthly-savings-in-india",
-        "nps-withdrawal-rules-in-india-lump-sum-annuity-and-partial-exit"
+        "nps-withdrawal-rules-in-india-lump-sum-annuity-and-partial-exit",
+        "sukanya-samriddhi-tax-benefits-and-interest-rate-2026"
       ],
       "primaryKeywords": [
         "SIP vs RD",
-        "NPS withdrawal rules"
+        "NPS withdrawal rules",
+        "Sukanya Samriddhi tax benefits"
       ]
     },
     "Compounding": {
       "members": [
         "sip-vs-rd-which-is-better-for-monthly-savings-in-india",
-        "how-many-stocks-should-a-beginner-hold-in-india-ideal-count"
+        "how-many-stocks-should-a-beginner-hold-in-india-ideal-count",
+        "sukanya-samriddhi-tax-benefits-and-interest-rate-2026"
       ],
       "primaryKeywords": [
         "SIP vs RD",
-        "how many stocks should a beginner hold in India"
+        "how many stocks should a beginner hold in India",
+        "Sukanya Samriddhi tax benefits"
       ]
     },
     "Retirement Planning": {
@@ -128,10 +147,12 @@
     },
     "Beginner Investing": {
       "members": [
-        "how-many-stocks-should-a-beginner-hold-in-india-ideal-count"
+        "how-many-stocks-should-a-beginner-hold-in-india-ideal-count",
+        "sukanya-samriddhi-tax-benefits-and-interest-rate-2026"
       ],
       "primaryKeywords": [
-        "how many stocks should a beginner hold in India"
+        "how many stocks should a beginner hold in India",
+        "Sukanya Samriddhi tax benefits"
       ]
     }
   },
@@ -142,6 +163,7 @@
     }
   ],
   "notes": [
-    "Extend the retirement cluster by publishing \"Annuity plans in India explained\" to capture the search demand surrounding the newly published NPS withdrawal rules, and establish a reciprocal internal-linking bridge between the two posts to funnel authority."
+    "Extend the retirement cluster by publishing \"Annuity plans in India explained\" to capture the search demand surrounding the newly published NPS withdrawal rules, and establish a reciprocal internal-linking bridge between the two posts to funnel authority.",
+    "Next run, publish a comparison post targeting \"Sukanya Samriddhi vs PPF for girl child\" to capture decision-stage queries and internally link it back to the 2026 tax benefits post. This will help build a broader topical cluster around \"best Section 80C child investments for FY 2026-27\" and capture h"
   ]
 }
