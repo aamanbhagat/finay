@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteBirth": "2026-06-17",
-  "lastRunAt": "2026-06-22T07:39:27.229Z",
+  "lastRunAt": "2026-06-22T08:37:46.321Z",
   "runs": [
     {
       "ts": "2026-06-20T13:37:27.540Z",
@@ -72,6 +72,16 @@
       "title": "Minimum amount to start SIP in index funds India 2026",
       "slug": "minimum-amount-to-start-sip-in-index-funds-india-2026",
       "wordCount": 2660
+    },
+    {
+      "ts": "2026-06-22T08:37:46.321Z",
+      "phase": "sprout",
+      "category": "crypto",
+      "keywordTier": "long-tail",
+      "primaryKeyword": "is bitcoin safe for senior citizens in india",
+      "title": "Is Bitcoin safe for senior citizens in India? Risk & tax guide",
+      "slug": "is-bitcoin-safe-for-senior-citizens-in-india-risk-tax-guide",
+      "wordCount": 2929
     }
   ],
   "usedKeywords": [
@@ -81,7 +91,8 @@
     "Sukanya Samriddhi tax benefits",
     "how much term insurance cover do i need in india",
     "how is crypto taxed in India FY 2026-27",
-    "minimum amount to start SIP in index funds India"
+    "minimum amount to start SIP in index funds India",
+    "is bitcoin safe for senior citizens in india"
   ],
   "usedTitles": [
     "SIP vs RD: which is better for monthly savings in India?",
@@ -90,7 +101,8 @@
     "Sukanya Samriddhi tax benefits and interest rate 2026",
     "How much term insurance cover do I need in India?",
     "How is crypto taxed in India FY 2026-27? 30% rate explained",
-    "Minimum amount to start SIP in index funds India 2026"
+    "Minimum amount to start SIP in index funds India 2026",
+    "Is Bitcoin safe for senior citizens in India? Risk & tax guide"
   ],
   "usedSlugs": [
     "sip-vs-rd-which-is-better-for-monthly-savings-in-india",
@@ -99,7 +111,8 @@
     "sukanya-samriddhi-tax-benefits-and-interest-rate-2026",
     "how-much-term-insurance-cover-do-i-need-in-india",
     "how-is-crypto-taxed-in-india-fy-2026-27-30-rate-explained",
-    "minimum-amount-to-start-sip-in-index-funds-india-2026"
+    "minimum-amount-to-start-sip-in-index-funds-india-2026",
+    "is-bitcoin-safe-for-senior-citizens-in-india-risk-tax-guide"
   ],
   "clusters": {
     "SIP": {
@@ -116,14 +129,16 @@
         "sukanya-samriddhi-tax-benefits-and-interest-rate-2026",
         "how-much-term-insurance-cover-do-i-need-in-india",
         "how-is-crypto-taxed-in-india-fy-2026-27-30-rate-explained",
-        "minimum-amount-to-start-sip-in-index-funds-india-2026"
+        "minimum-amount-to-start-sip-in-index-funds-india-2026",
+        "is-bitcoin-safe-for-senior-citizens-in-india-risk-tax-guide"
       ],
       "primaryKeywords": [
         "SIP vs RD",
         "Sukanya Samriddhi tax benefits",
         "how much term insurance cover do i need in india",
         "how is crypto taxed in India FY 2026-27",
-        "minimum amount to start SIP in index funds India"
+        "minimum amount to start SIP in index funds India",
+        "is bitcoin safe for senior citizens in india"
       ]
     },
     "Tax Planning": {
@@ -170,10 +185,12 @@
     },
     "Senior Citizens": {
       "members": [
-        "nps-withdrawal-rules-in-india-lump-sum-annuity-and-partial-exit"
+        "nps-withdrawal-rules-in-india-lump-sum-annuity-and-partial-exit",
+        "is-bitcoin-safe-for-senior-citizens-in-india-risk-tax-guide"
       ],
       "primaryKeywords": [
-        "NPS withdrawal rules"
+        "NPS withdrawal rules",
+        "is bitcoin safe for senior citizens in india"
       ]
     },
     "Stocks": {
@@ -218,18 +235,22 @@
     },
     "Crypto": {
       "members": [
-        "how-is-crypto-taxed-in-india-fy-2026-27-30-rate-explained"
+        "how-is-crypto-taxed-in-india-fy-2026-27-30-rate-explained",
+        "is-bitcoin-safe-for-senior-citizens-in-india-risk-tax-guide"
       ],
       "primaryKeywords": [
-        "how is crypto taxed in India FY 2026-27"
+        "how is crypto taxed in India FY 2026-27",
+        "is bitcoin safe for senior citizens in india"
       ]
     },
     "Tax": {
       "members": [
-        "how-is-crypto-taxed-in-india-fy-2026-27-30-rate-explained"
+        "how-is-crypto-taxed-in-india-fy-2026-27-30-rate-explained",
+        "is-bitcoin-safe-for-senior-citizens-in-india-risk-tax-guide"
       ],
       "primaryKeywords": [
-        "how is crypto taxed in India FY 2026-27"
+        "how is crypto taxed in India FY 2026-27",
+        "is bitcoin safe for senior citizens in india"
       ]
     }
   },
@@ -237,11 +258,16 @@
     {
       "ts": "2026-06-20T13:37:27.540Z",
       "phase": "seed"
+    },
+    {
+      "ts": "2026-06-22T08:37:46.321Z",
+      "phase": "sprout"
     }
   ],
   "notes": [
     "Extend the retirement cluster by publishing \"Annuity plans in India explained\" to capture the search demand surrounding the newly published NPS withdrawal rules, and establish a reciprocal internal-linking bridge between the two posts to funnel authority.",
     "Next run, publish a comparison post targeting \"Sukanya Samriddhi vs PPF for girl child\" to capture decision-stage queries and internally link it back to the 2026 tax benefits post. This will help build a broader topical cluster around \"best Section 80C child investments for FY 2026-27\" and capture h",
-    "Next run, bridge the tax reporting gap by publishing \"how to declare crypto income in ITR FY 2026-27\" and internally link it to the 30% rate explainer. Also, extend the SIP cluster with a \"best index funds for SIP India 2026\" post to capture bottom-funnel intent and link it directly to the new minim"
+    "Next run, bridge the tax reporting gap by publishing \"how to declare crypto income in ITR FY 2026-27\" and internally link it to the 30% rate explainer. Also, extend the SIP cluster with a \"best index funds for SIP India 2026\" post to capture bottom-funnel intent and link it directly to the new minim",
+    "Next run, extend the senior citizen investing cluster by targeting \"best debt mutual funds for senior citizens in FY 2026-27\" to capture risk-off traffic, and internally link it to the newly published Bitcoin guide as a low-volatility counterpoint."
   ]
 }
