@@ -1,7 +1,7 @@
 {
   "version": 1,
   "siteBirth": "2026-06-17",
-  "lastRunAt": "2026-06-21T05:26:06.787Z",
+  "lastRunAt": "2026-06-22T07:39:27.229Z",
   "runs": [
     {
       "ts": "2026-06-20T13:37:27.540Z",
@@ -42,25 +42,64 @@
       "title": "Sukanya Samriddhi tax benefits and interest rate 2026",
       "slug": "sukanya-samriddhi-tax-benefits-and-interest-rate-2026",
       "wordCount": 2282
+    },
+    {
+      "ts": "2026-06-22T07:30:19.582Z",
+      "phase": "seed",
+      "category": "insurance",
+      "keywordTier": "long-tail",
+      "primaryKeyword": "how much term insurance cover do i need in india",
+      "title": "How much term insurance cover do I need in India?",
+      "slug": "how-much-term-insurance-cover-do-i-need-in-india",
+      "wordCount": 2128
+    },
+    {
+      "ts": "2026-06-22T07:35:09.982Z",
+      "phase": "seed",
+      "category": "crypto",
+      "keywordTier": "long-tail",
+      "primaryKeyword": "how is crypto taxed in India FY 2026-27",
+      "title": "How is crypto taxed in India FY 2026-27? 30% rate explained",
+      "slug": "how-is-crypto-taxed-in-india-fy-2026-27-30-rate-explained",
+      "wordCount": 2745
+    },
+    {
+      "ts": "2026-06-22T07:39:27.229Z",
+      "phase": "seed",
+      "category": "stocks",
+      "keywordTier": "long-tail",
+      "primaryKeyword": "minimum amount to start SIP in index funds India",
+      "title": "Minimum amount to start SIP in index funds India 2026",
+      "slug": "minimum-amount-to-start-sip-in-index-funds-india-2026",
+      "wordCount": 2660
     }
   ],
   "usedKeywords": [
     "SIP vs RD",
     "NPS withdrawal rules",
     "how many stocks should a beginner hold in India",
-    "Sukanya Samriddhi tax benefits"
+    "Sukanya Samriddhi tax benefits",
+    "how much term insurance cover do i need in india",
+    "how is crypto taxed in India FY 2026-27",
+    "minimum amount to start SIP in index funds India"
   ],
   "usedTitles": [
     "SIP vs RD: which is better for monthly savings in India?",
     "NPS withdrawal rules in India: lump sum, annuity and partial exit",
     "How many stocks should a beginner hold in India? Ideal count",
-    "Sukanya Samriddhi tax benefits and interest rate 2026"
+    "Sukanya Samriddhi tax benefits and interest rate 2026",
+    "How much term insurance cover do I need in India?",
+    "How is crypto taxed in India FY 2026-27? 30% rate explained",
+    "Minimum amount to start SIP in index funds India 2026"
   ],
   "usedSlugs": [
     "sip-vs-rd-which-is-better-for-monthly-savings-in-india",
     "nps-withdrawal-rules-in-india-lump-sum-annuity-and-partial-exit",
     "how-many-stocks-should-a-beginner-hold-in-india-ideal-count",
-    "sukanya-samriddhi-tax-benefits-and-interest-rate-2026"
+    "sukanya-samriddhi-tax-benefits-and-interest-rate-2026",
+    "how-much-term-insurance-cover-do-i-need-in-india",
+    "how-is-crypto-taxed-in-india-fy-2026-27-30-rate-explained",
+    "minimum-amount-to-start-sip-in-index-funds-india-2026"
   ],
   "clusters": {
     "SIP": {
@@ -74,11 +113,17 @@
     "Personal Finance": {
       "members": [
         "sip-vs-rd-which-is-better-for-monthly-savings-in-india",
-        "sukanya-samriddhi-tax-benefits-and-interest-rate-2026"
+        "sukanya-samriddhi-tax-benefits-and-interest-rate-2026",
+        "how-much-term-insurance-cover-do-i-need-in-india",
+        "how-is-crypto-taxed-in-india-fy-2026-27-30-rate-explained",
+        "minimum-amount-to-start-sip-in-index-funds-india-2026"
       ],
       "primaryKeywords": [
         "SIP vs RD",
-        "Sukanya Samriddhi tax benefits"
+        "Sukanya Samriddhi tax benefits",
+        "how much term insurance cover do i need in india",
+        "how is crypto taxed in India FY 2026-27",
+        "minimum amount to start SIP in index funds India"
       ]
     },
     "Tax Planning": {
@@ -97,12 +142,14 @@
       "members": [
         "sip-vs-rd-which-is-better-for-monthly-savings-in-india",
         "how-many-stocks-should-a-beginner-hold-in-india-ideal-count",
-        "sukanya-samriddhi-tax-benefits-and-interest-rate-2026"
+        "sukanya-samriddhi-tax-benefits-and-interest-rate-2026",
+        "how-much-term-insurance-cover-do-i-need-in-india"
       ],
       "primaryKeywords": [
         "SIP vs RD",
         "how many stocks should a beginner hold in India",
-        "Sukanya Samriddhi tax benefits"
+        "Sukanya Samriddhi tax benefits",
+        "how much term insurance cover do i need in india"
       ]
     },
     "Retirement Planning": {
@@ -131,10 +178,12 @@
     },
     "Stocks": {
       "members": [
-        "how-many-stocks-should-a-beginner-hold-in-india-ideal-count"
+        "how-many-stocks-should-a-beginner-hold-in-india-ideal-count",
+        "minimum-amount-to-start-sip-in-index-funds-india-2026"
       ],
       "primaryKeywords": [
-        "how many stocks should a beginner hold in India"
+        "how many stocks should a beginner hold in India",
+        "minimum amount to start SIP in index funds India"
       ]
     },
     "Portfolio Diversification": {
@@ -148,11 +197,39 @@
     "Beginner Investing": {
       "members": [
         "how-many-stocks-should-a-beginner-hold-in-india-ideal-count",
-        "sukanya-samriddhi-tax-benefits-and-interest-rate-2026"
+        "sukanya-samriddhi-tax-benefits-and-interest-rate-2026",
+        "how-much-term-insurance-cover-do-i-need-in-india",
+        "how-is-crypto-taxed-in-india-fy-2026-27-30-rate-explained"
       ],
       "primaryKeywords": [
         "how many stocks should a beginner hold in India",
-        "Sukanya Samriddhi tax benefits"
+        "Sukanya Samriddhi tax benefits",
+        "how much term insurance cover do i need in india",
+        "how is crypto taxed in India FY 2026-27"
+      ]
+    },
+    "Insurance": {
+      "members": [
+        "how-much-term-insurance-cover-do-i-need-in-india"
+      ],
+      "primaryKeywords": [
+        "how much term insurance cover do i need in india"
+      ]
+    },
+    "Crypto": {
+      "members": [
+        "how-is-crypto-taxed-in-india-fy-2026-27-30-rate-explained"
+      ],
+      "primaryKeywords": [
+        "how is crypto taxed in India FY 2026-27"
+      ]
+    },
+    "Tax": {
+      "members": [
+        "how-is-crypto-taxed-in-india-fy-2026-27-30-rate-explained"
+      ],
+      "primaryKeywords": [
+        "how is crypto taxed in India FY 2026-27"
       ]
     }
   },
@@ -164,6 +241,7 @@
   ],
   "notes": [
     "Extend the retirement cluster by publishing \"Annuity plans in India explained\" to capture the search demand surrounding the newly published NPS withdrawal rules, and establish a reciprocal internal-linking bridge between the two posts to funnel authority.",
-    "Next run, publish a comparison post targeting \"Sukanya Samriddhi vs PPF for girl child\" to capture decision-stage queries and internally link it back to the 2026 tax benefits post. This will help build a broader topical cluster around \"best Section 80C child investments for FY 2026-27\" and capture h"
+    "Next run, publish a comparison post targeting \"Sukanya Samriddhi vs PPF for girl child\" to capture decision-stage queries and internally link it back to the 2026 tax benefits post. This will help build a broader topical cluster around \"best Section 80C child investments for FY 2026-27\" and capture h",
+    "Next run, bridge the tax reporting gap by publishing \"how to declare crypto income in ITR FY 2026-27\" and internally link it to the 30% rate explainer. Also, extend the SIP cluster with a \"best index funds for SIP India 2026\" post to capture bottom-funnel intent and link it directly to the new minim"
   ]
 }
